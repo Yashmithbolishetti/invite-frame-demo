@@ -1,0 +1,8 @@
+{
+  "name": "InviteFrame",
+  "description": "Create beautiful digital invitations and manage guest RSVP responses free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
